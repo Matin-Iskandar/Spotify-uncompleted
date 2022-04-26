@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    text-decoration: none;
+}
+
+.logo-1,
+.logo-2 {
+    width: 132px;
+    height: 41.900px;
+}
+
+header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    
+    padding: 64px 0px;
+    background-color: blue;
+ color: #1ed760;
+}
+.registration-btn{
+width: 188.69px;
+height: 48px;
+    border-radius: 24px;
+    padding: 14px 32px;
+    background-color: #1ed760;
+    color: blue;
+}
